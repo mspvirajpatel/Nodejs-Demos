@@ -1,0 +1,19 @@
+{
+  "name": "basic-http-rquest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "debug" : "DEBUG=express:* nodemon index.js"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Viraj Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

@@ -35,6 +35,16 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+1.hello-world/node_modules/
+1.hello-world/jspm_packages/
+2.basic-http-request/node_modules/
+2.basic-http-request/jspm_packages/
+3.static-file-render/node_modules/
+3.static-file-render/jspm_packages/
+4.routing/node_modules/
+4.routing/jspm_packages/
+5.express-router/node_modules/
+5.express-router/jspm_packages/
 
 # Typescript v1 declaration files
 typings/
